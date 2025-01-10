@@ -1,7 +1,7 @@
 {
   "name": "cek-ign",
   "version": "1.0.50",
-  "type": "module"
+  "type": "module",
   "scripts": {
     "dev": "bun run --watch src/index.ts"
   },
